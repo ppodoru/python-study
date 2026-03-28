@@ -1,4 +1,4 @@
-# Practice files
+﻿# Practice files
 practice/
 
 # Python bytecode
@@ -9,3 +9,4 @@ __pycache__/
 .venv/
 env/
 venv/
+PROGRESS.md
